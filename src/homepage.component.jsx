@@ -13,6 +13,7 @@ export const HomePage = () => (
                     </div>
                 </div>
 
+
                 <div className='menu-item'>
                     <div className='content'>
                         <h1 className='title'>JACKETS</h1>
